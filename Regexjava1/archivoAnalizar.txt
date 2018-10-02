@@ -1,0 +1,9 @@
+Este es el trabajo realizado en la materia de 'lenguajes-automatas' ,
+el cual nos solicito el profesor leoner pech en el cual se realizara
+unas practicas de utilizacion de expresiones regulares en donde buscara
+ una url como por ejemplo ; http://google.com , www.google.com se puede enviar con un correo 
+el cual es miguel.tuntuz@itsva.edu.mx , con codigo postal de 97785 , 97760 , 'chichimila' , 
+con numero telefonico 9858586628 , con fecha de cumpleaños de 02/08/1996 , 
+tiene un router con ip de punto 172.16.254.0 , se busco palabras como mcimagen , y como tambien
+nombres como por ejemplo alejandro, american , pluggin , 256.16.254.1 hbksuperdaniel@gmail.com ,
+ Mdoeee , 172.16.254.1 , sietepalabras
